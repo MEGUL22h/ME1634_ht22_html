@@ -1,6 +1,7 @@
-<pre>Här är det innehållet och hur detta är tänkt att du ska arbeta med det i kursen.
+<pre>Här visas innehållet i diagramform och hur detta är tänkt att du ska arbeta med och tillgodogöra dig det i kursen.
 Tanken är att du ska kunna använda denna översikt till att få stöd i hur du ska lägga upp dina studier.
-Som du ser är tanken att du ska arbeta parallelt med JavaScript och starta din undersöking.
+Som du ser är alltså upplägget att du ska arbeta parallelt med JavaScript och starta din undersöking.
+Om du redan har förkunskaper i något så se i extramaterialet för kursen.
 </pre>
 
 
